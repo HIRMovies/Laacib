@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Abbas Abdirahman Mohamed's Portfolio</title>
+</head>
+<body>
+
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#about">About Me</a></li>
+    <li><a href="#contact">Contact Me</a></li>
+  </ul>
+  <hr>
+
+  <img src="images/ilkacase.jpg" alt="Abbas Abdirahman Mohamed" height="120">
+
+  <h1 id="home">Abbas Abdirahman Mohamed's Portfolio</h1>
+  <h2>I'm a Web Developer</h2>
+  <hr>
+
+  <h3 id="about">About Me</h3>
+  <p>Hello! My name is Abbas Abdirahman Mohamed. I am a web developer who enjoys building simple and useful websites.</p>
+  <hr>
+
+  <h3>Skills</h3>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+  <hr>
+
+  <h3 id="projects">Projects</h3>
+  <h4>Project One: Movie Website</h4>
+  <p>My first try at a movie website. I was still learning, so I am building it again with better skills.</p>
+  <h4>Project Two: School Attendance Website</h4>
+  <p>A website I made for my school to record student attendance.</p>
+  <hr>
+
+  <h3 id="contact">Contact Me</h3>
+  <p>Email: <a href="mailto:hirmovies.official@gmail.com">hirmovies.official@gmail.com</a></p>
+
+</body>
+</html>
